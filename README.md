@@ -1,0 +1,2 @@
+# Predictive-analysis-of-Mobile-App-Success
+Nowadays, mobile applications are part of our daily lives. They now account for more than half (52%) of the time spent on digital media on the one hand, and would account for 89% of the time spent by users of on their smartphone.Thereby, it is not surprising that since 2016, the market for mobile applications has experienced unprecedented growth. It is now worth billions of dollars, through the marketing of mobile games in particular, and it explains the attractivity of this market for developers and investors.
